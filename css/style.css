@@ -1209,31 +1209,38 @@ footer .footer-end .create {
     font-size: 14px;
   }
   .promo .promo_title {
-    font-size: 29px;
+    font-size: 27px;
+  }
+  .promo .promo_line .circle:before {
+    width: 120px;
+    right: 36px;
+  }
+  .promo .promo_line .circle:after {
+    width: 120px;
+    left: 36px;
   }
   .promo .promo_subtitle {
-    font-size: 18px;
+    font-size: 17px;
   }
   .promo .header .logo {
     width: 68px;
-    margin-left: 10px;
   }
   .promo .header .header__end .hamburger {
     margin-left: 10px;
   }
   .promo .header .header__end .header__phone .header__link {
-    font-size: 13px;
+    font-size: 12px;
   }
   .promo .header .button {
-    width: 109px;
-    font-size: 10px;
+    width: 100px;
+    font-size: 9px;
   }
   .promo .header .promo_btn {
     width: 122px;
   }
 
   .advantages .title {
-    font-size: 19px;
+    font-size: 17px;
   }
   .advantages .advantages-item {
     width: 99%;
@@ -1241,6 +1248,9 @@ footer .footer-end .create {
 
   .ourwork .container .subtitle {
     font-size: 15px;
+  }
+  .ourwork .ourwork-item img {
+    width: 100%;
   }
 
   .title {
@@ -1258,6 +1268,13 @@ footer .footer-end .create {
   .order .order-title {
     color: #3a3a3a;
     font-size: 21px;
+  }
+  .order .order__wrapper {
+    margin: 0;
+  }
+  .order .order__wrapper .order-item {
+    padding: 0 5px;
+    margin-top: 15px;
   }
   .order .form {
     -webkit-box-orient: vertical;
@@ -1294,7 +1311,8 @@ footer .footer-end .create {
   }
   .scheme .scheme-item {
     padding: 0 5px;
-    width: 48%;
+    width: 99%;
+    margin-top: 15px;
   }
 
   footer .footer-top .logo {
