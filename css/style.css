@@ -1209,7 +1209,7 @@ footer .footer-end .create {
     font-size: 14px;
   }
   .promo .promo_title {
-    font-size: 27px;
+    font-size: 24px;
   }
   .promo .promo_line .circle:before {
     width: 120px;
@@ -1220,27 +1220,33 @@ footer .footer-end .create {
     left: 36px;
   }
   .promo .promo_subtitle {
-    font-size: 17px;
+    font-size: 15px;
   }
   .promo .header .logo {
-    width: 68px;
+    width: 57px;
   }
   .promo .header .header__end .hamburger {
-    margin-left: 10px;
+    margin-left: 6px;
+  }
+  .promo .header .header__end .header__phone .header__text {
+    font-size: 11px;
   }
   .promo .header .header__end .header__phone .header__link {
-    font-size: 12px;
+    font-size: 11px;
   }
   .promo .header .button {
-    width: 100px;
+    width: 97px;
     font-size: 9px;
   }
   .promo .header .promo_btn {
     width: 122px;
   }
 
+  .advantages {
+    padding: 30px 0 51px 0;
+  }
   .advantages .title {
-    font-size: 17px;
+    font-size: 16px;
   }
   .advantages .advantages-item {
     width: 99%;
@@ -1269,6 +1275,9 @@ footer .footer-end .create {
     color: #3a3a3a;
     font-size: 21px;
   }
+  .order .order_btn {
+    width: 137px;
+  }
   .order .order__wrapper {
     margin: 0;
   }
@@ -1290,10 +1299,10 @@ footer .footer-end .create {
   }
 
   .feedback .carousel .slick-prev {
-    left: 80px;
+    left: 70px;
   }
   .feedback .carousel .slick-next {
-    right: 80px;
+    right: 70px;
   }
 
   .main-form .main-form-content .form input, .main-form .main-form-content .form .textarea {
@@ -1316,9 +1325,22 @@ footer .footer-end .create {
   }
 
   footer .footer-top .logo {
-    width: 60px;
+    width: 56px;
   }
   footer .footer-top .footer-top__link {
-    font-size: 13px;
+    font-size: 12px;
+  }
+  footer .button {
+    width: 113px;
+    font-size: 10px;
+  }
+  footer .footer-end .address {
+    font-size: 11px;
+  }
+  footer .footer-end .polition {
+    font-size: 11px;
+  }
+  footer .footer-end .create {
+    font-size: 11px;
   }
 }
