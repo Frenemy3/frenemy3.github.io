@@ -1219,7 +1219,7 @@ footer .footer-end .create {
     margin-left: 10px;
   }
   .promo .header .header__end .hamburger {
-    margin-left: 15px;
+    margin-left: 10px;
   }
   .promo .header .header__end .header__phone .header__link {
     font-size: 13px;
@@ -1287,6 +1287,14 @@ footer .footer-end .create {
   .map .map-information {
     top: 16%;
     left: 0;
+  }
+
+  .scheme .scheme-wrapper {
+    margin: 0;
+  }
+  .scheme .scheme-item {
+    padding: 0 5px;
+    width: 48%;
   }
 
   footer .footer-top .logo {
